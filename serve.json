@@ -1,10 +1,10 @@
 {
 	"loader": {
-		"url": "https://y9x.github.io/userscripts/loader.user.js",
+		"url": "https://testy65421.github.io/ertgdtg/loader.user.js",
 		"version": 1.24
 	},
 	"client": {
-		"url": "https://github.com/6ct/client/releases",
+		"url": "https://github.com/testy65421/client/releases",
 		"version": 0.1
 	},
 	"lext": {
@@ -14,11 +14,11 @@
 	"scripts": {
 		"Sploit": {
 			"version": 1.0966,
-			"url": "https://y9x.github.io/userscripts/serve/sploit.user.js"
+			"url": "https://testy65421.github.io/ertgdtg/serve/sploit.user.js"
 		},
 		"Junker": {
 			"version": 1.0966,
-			"url": "https://y9x.github.io/userscripts/serve/junker.user.js"
+			"url": "https://testy65421.github.io/ertgdtg/serve/junker.user.js"
 		}
 	}
 }
